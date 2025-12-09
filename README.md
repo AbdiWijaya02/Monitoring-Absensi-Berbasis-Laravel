@@ -53,11 +53,11 @@ Sistem terdiri dari dua komponen utama:
 
 | Dashboard Monitoring | AI Face Recognition |
 | :---: | :---: |
-| ![Dashboard](path/to/dashboard.png) | ![Python App](path/to/python.png) |
+| ![Dashboard](public/screenshoots/dashboard.png) | ![Python App](public/screenshoots/python.png) |
 
 | Laporan PDF | Fitur Izin |
 | :---: | :---: |
-| ![PDF Report](path/to/pdf.png) | ![Izin Form](path/to/izin.png) |
+| ![PDF Report](public/screenshoots/pdf.png) | ![Izin Form](public/screenshoots/izin.png) |
 
 ---
 
